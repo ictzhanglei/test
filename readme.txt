@@ -5,3 +5,5 @@ this is added in dev branch
 simple and easy
 
 no fast forward
+
+no fast forward 2
